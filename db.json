@@ -1,5 +1,13 @@
 {
-  "transactions": [],
+  "transactions": [
+    {
+      "amount": "200000",
+      "category": "income",
+      "description": "Salary Credited",
+      "id": "2915a2bf-d73a-4572-97c2-2cbc36787062",
+      "date": "2024-07-08T15:31:59.796Z"
+    }
+  ],
   "user": {
     "id": "1",
     "name": "John Doe",
